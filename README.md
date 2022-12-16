@@ -2,8 +2,8 @@
 
 Solution for a challenge from [Devchallenges.io](http://devchallenges.io).
 
-[Demo](https://tino-devchallenges-01.netlify.app) | 
-[Solution](https://github.com/tinoreyna1984/devchallenges-01) | 
+[Demo](https://tino-devchallenges-02.netlify.app) | 
+[Solution](https://github.com/tinoreyna1984/devchallenges-02) | 
 [Challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U)
 
 <!-- TABLE OF CONTENTS -->
