@@ -1,4 +1,4 @@
-#404 Not Found page
+#The Team
 
 Solution for a challenge from [Devchallenges.io](http://devchallenges.io).
 
