@@ -70,6 +70,7 @@ img {
     align-items: baseline;
     padding-left: 20rem;
     padding-right: 30rem;
+    column-gap: 1rem;
   }
 
   .header-part02-desc {
@@ -85,6 +86,7 @@ img {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 0.5rem;
+  padding: 0 1.5rem;
 }
 
 @media (min-width: 768px) {
